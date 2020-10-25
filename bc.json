@@ -193,7 +193,7 @@
         {
             "slug": "07.3-Flip-Array",
             "title": "07.3-Flip-Array",
-            "done": false,
+            "done": true,
             "path": "exercises/07.3-Flip-Array",
             "translations": [
                 "es",
